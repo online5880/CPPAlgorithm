@@ -9,5 +9,6 @@
     <ClCompile Include="Part1\1.cpp">
       <Filter>Part1</Filter>
     </ClCompile>
+    <ClCompile Include="Part1\2.cpp" />
   </ItemGroup>
 </Project>
