@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="Part1\1.cpp" />
     <ClCompile Include="Part1\2.cpp" />
+    <ClCompile Include="Part1\3.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

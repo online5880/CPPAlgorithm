@@ -10,5 +10,6 @@
       <Filter>Part1</Filter>
     </ClCompile>
     <ClCompile Include="Part1\2.cpp" />
+    <ClCompile Include="Part1\3.cpp" />
   </ItemGroup>
 </Project>
