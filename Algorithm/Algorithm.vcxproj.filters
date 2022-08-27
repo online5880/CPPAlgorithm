@@ -15,5 +15,6 @@
     <ClCompile Include="Part1\5.나이계산.cpp" />
     <ClCompile Include="Part1\6. 숫자만 추출.cpp" />
     <ClCompile Include="Part1\7. 영어단어 복구.cpp" />
+    <ClCompile Include="Part1\8. 올바른 괄호.cpp" />
   </ItemGroup>
 </Project>
