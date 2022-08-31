@@ -17,5 +17,6 @@
     <ClCompile Include="Part1\7. 영어단어 복구.cpp" />
     <ClCompile Include="Part1\8. 올바른 괄호.cpp" />
     <ClCompile Include="Part1\9. 모두의 약수.cpp" />
+    <ClCompile Include="Part1\10. 자릿수의 합.cpp" />
   </ItemGroup>
 </Project>
