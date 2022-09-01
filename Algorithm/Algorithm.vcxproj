@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="Part1\1. 1부터 N까지의 M의 배수합.cpp" />
     <ClCompile Include="Part1\10. 자릿수의 합.cpp" />
+    <ClCompile Include="Part1\11. 숫자의 총 개수(small).cpp" />
     <ClCompile Include="Part1\2. 자연수의 합.cpp" />
     <ClCompile Include="Part1\3. 진약수의 합.cpp" />
     <ClCompile Include="Part1\4. 나이차이.cpp" />
