@@ -23,6 +23,7 @@
     <ClCompile Include="Part1\10. 자릿수의 합.cpp" />
     <ClCompile Include="Part1\11. 숫자의 총 개수(small).cpp" />
     <ClCompile Include="Part1\12. 숫자의 총 개수(large).cpp" />
+    <ClCompile Include="Part1\13. 가장 많이 사용된 자릿수.cpp" />
     <ClCompile Include="Part1\2. 자연수의 합.cpp" />
     <ClCompile Include="Part1\3. 진약수의 합.cpp" />
     <ClCompile Include="Part1\4. 나이차이.cpp" />
